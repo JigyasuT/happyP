@@ -1,4 +1,4 @@
 # happyP
 This is my first git repository
  <br>
-Author - jigyasu Tiwari
+Author - jigyasu Tiwari (happycoding)
